@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.navbar ul{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+
+}
+body {
+  margin: 0;
+  
+  color: #333;
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 30px;
+  justify-content: center;
+}
+
+/* Card style */
+.card {
+  background: #f9f9f9;
+  border-radius: 12px;
+ 
+  padding: 20px;
+  width: 300px;
+  
+}
+
+
+
+
+
+
+
+
